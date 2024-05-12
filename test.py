@@ -1,2 +1,2 @@
-list=[1,2,3,"a","b","c"]
+list=["a","b","c"]
 print(list)
